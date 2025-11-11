@@ -5,6 +5,8 @@ body{
     bottom: 0;
     color: aliceblue;
     background-color: black;
+     font-family: Arial, Helvetica, sans-serif;
+
 }
 header{
     position: relative;
